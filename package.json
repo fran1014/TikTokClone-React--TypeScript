@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/debounce": "^1.2.4",
+    "appwrite": "^13.0.0",
+    "canvas": "^2.11.2",
+    "debounce": "^2.0.0",
+    "image-js": "^0.35.5",
+    "moment": "^2.29.4",
+    "raw-loader": "^4.0.2",
+    "react-advanced-cropper": "^0.19.4",
+    "react-icons": "^4.12.0",
+    "zustand": "^4.4.6"
+  }
+}
